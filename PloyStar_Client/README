@@ -1,0 +1,6 @@
+PolyStar Programming Java
+
+This program is built based on the requirements based on Doc. Nr OSIX-041214-T1
+Server Side: 
+•	You can start the Server Side Application by doing the following  command 
+o	Java –jar PloyStar_Client-1.0.0.jar first_port first_host second_port second_host

@@ -1,0 +1,11 @@
+PolyStar Programming Java
+
+This program is built based on the requirements based on Doc. Nr OSIX-041214-T1
+Server Side: 
+•	You can start the Server Side Application by doing the following  command 
+o	Java –jar PloyStar_Server-0.0.1-SNAPSHOT.jar port_Number file_path 
+Example java -jar .\PloyStar_Server-0.0.1-SNAPSHOT.jar 9595 ..\files\textfil1_lasse_solen 
+
+the program will start to read the input file once the client socket is connected 
+
+send line by line using BufferReader
